@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+* {
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	line-height: 20px;
+}
+body {
+	text-align: center;
+	background: #ffffcc;
+}
+.btn1 {
+	border: none;
+	width: 48px;
+	height: 20px;
+	background: url(../images/append_15.jpg);
+}
+.add_dpt {
+	width: 250px;
+	margin: 20px auto 5px auto;
+}

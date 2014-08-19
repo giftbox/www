@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+* {
+	margin: 0;
+	padding: 0;
+}
+.input2 {
+	width: 198px;
+	border: solid 1px #cccccc;
+	height: 18px;
+	padding-left: 3px;
+}
+.sp1 {
+	color: #ff0000;
+	text-align: left;
+	margin: 0 0 0 10px;
+}
+.add_mbtn1 {
+	background: url(../images/append_15.jpg);
+	border: none;
+	width: 48px;
+	height: 20px;
+}
+.add_mbtn2 {
+	background: url(../images/cancel.jpg);
+	border: none;
+	width: 48px;
+	height: 20px;
+}
+.upload {
+	border: solid 1px #cccccc;
+	height: 20px;
+}
+.add_m_info {
+	width: 520px;
+	margin: 10px auto 5px auto;
+}

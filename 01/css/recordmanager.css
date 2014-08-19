@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.btn2 {
+	border: none;
+	width: 48px;
+	height: 20px;
+	background: url(../images/delete_15.jpg);
+}

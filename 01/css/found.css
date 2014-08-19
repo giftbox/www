@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.input_found {
+	border: solid 1px #cccccc;
+	height: 16px;
+	width: 180px;	
+}
+.found_btn {
+	border: none;
+	width: 48px;
+	height: 20px;
+	background: url(../images/search.jpg);
+}
+.select {
+	border: solid 1px #cccccc;
+	height: 20px;
+	width: 100px;
+}

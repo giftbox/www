@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+.ame_btn1 {
+	border: none;
+	width: 48px;
+	height: 20px;
+	background: url(../images/confirm.jpg);
+}
+.ame_btn2 {
+	border: none;
+	width: 48px;
+	height: 20px;
+	background: url(../images/cancel.jpg);	
+}

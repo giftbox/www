@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	line-height: 30px;
+}
+body {
+	text-align: center;
+}
+.infoshow {
+	width: 560px;
+	border: solid 1px #cccccc;
+	margin: 10px auto auto auto;
+}
+.ht {
+	font-size: 18px;
+	border-bottom: solid 1px #cccccc;
+}
+.content {
+	height: 200px;
+	width: 540px;
+	resize: none;
+	text-align: left;
+	line-height: 20px;
+	border: none;
+	margin-left: 19px;
+}
